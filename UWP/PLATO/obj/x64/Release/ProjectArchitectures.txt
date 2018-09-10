@@ -1,0 +1,2 @@
+E:\olegario\Unity Projects\TFG10\UWP\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x64
+E:\olegario\Unity Projects\TFG10\UWP\PLATO\PLATO.csproj;x64
